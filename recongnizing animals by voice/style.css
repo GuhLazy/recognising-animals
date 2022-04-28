@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(241, 214, 229);
+    font-family: 'Square Peg', cursive;
+}
+.header_div{
+    background-color: rgb(184, 152, 226);
+}
+.copy_right_footer {
+    text-align: center;
+    position: fixed;
+    color: rgb(82, 79, 79);
+    bottom: 0;
+    width: 100%;
+    font-size: medium;
+    background-color: rgb(173, 211, 233);
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149)
+
+}
+p {
+  font-size:25px;  
+}
+button {
+  color:black;
+  background-color: rgb(117, 145, 238);
+  font-size:20px;
+
+}
